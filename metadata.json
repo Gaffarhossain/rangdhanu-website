@@ -1,0 +1,6 @@
+{
+  "name": "Rangdhanu Admin & E-commerce",
+  "description": "Admin panel and eCommerce frontend for Rangdhanu Fashion, integrating Google Sheets and Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
